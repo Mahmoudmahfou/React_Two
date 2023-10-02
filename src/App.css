@@ -1,0 +1,77 @@
+/* navbar */
+a.text-success:hover {
+  color: #28a745 !important;
+}
+.navbar-light .navbar-nav .nav-link {
+  font-size: 20px;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: #20c746;
+}
+.navbar-light .navbar-brand {
+  font-size: 25px;
+}
+/* navbar */
+
+/* start Carousel wrapper */
+
+.carousel-control-prev-icon {
+  background-image: none;
+  
+}
+.carousel-control-prev-icon:after {
+  --mdb-carousel-control-icon-font-size: 2.5rem;
+  color: #59ab6e;
+}
+.carousel-control-next-icon {
+  background-image: none;
+  
+}
+.carousel-control-next-icon:after{
+  --mdb-carousel-control-icon-font-size: 2.5rem;
+  color: #59ab6e;
+}
+.carousel-indicators [data-mdb-target]{
+  background-color: #59ab6e;
+  height: 7px;
+}
+
+/* End Carousel wrapper */
+
+/* start Featured Product */
+.featured_Product{
+  background-color:#e9eef5 ;
+}
+small{
+  font-size: 16px;
+}
+/* End Featured Product */
+
+
+/* form email */
+.form-control:focus{
+  background-color: transparent;
+}
+/* form email */
+
+
+/* icons */
+ul.footer-icons li:hover i {
+  color: #212934;
+  transition: .5s;
+}
+ul.footer-icons li:hover {
+  background-color: #ffffff;
+  transition: .5s;
+}
+a.text-light:hover{
+  color: #000 !important;
+}
+/* icons */
+li .mahmoud:hover, .mahmoud:hover {
+  color: #59ab6e !important;
+}
+/* footer */
+.Copyright{
+  background-color: rgba(0, 0, 0, 0.2);
+}
